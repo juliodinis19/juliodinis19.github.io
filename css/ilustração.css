@@ -1,0 +1,63 @@
+.sec_ilus{
+    width: 100%;
+    height: 1200px;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 40px;
+    display: flex;
+    background-color: #F6F6F6;
+
+
+}
+.esquerda_ilus{
+    width: 350px;
+    height: 1020px;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    margin-right: 40px;
+    justify-content: center;
+    padding: 10px;
+    display: flex;
+    
+}
+
+.direita_ilus{
+    width: 350px;
+    height: 1020px;
+    padding: 10px;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    margin-left: 40px;
+    display: flex;
+    
+}
+.centro_ilus{
+    width: 350px;
+    height: 1160px;
+    padding: 10px;
+    flex-wrap: wrap;
+    display: flex;
+    align-content: center;
+    display: flex;
+}
+.vertical_ilus{
+width: 325px;
+height: 385px;
+padding: 15px;
+display: flex;
+flex-wrap: wrap;
+}
+
+.horizontal_ilus{
+ width: 325px;
+ height: 240px;
+ padding: 15px;
+ display: flex;
+flex-wrap: wrap;
+}
+.descrição_ilus{
+    color: #49654E;
+    font-size: 1.2rem;
+    width: 320px;
+    margin-left: 15px;
+}

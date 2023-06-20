@@ -1,0 +1,79 @@
+.sec1_contato{
+    display: flex;
+    width: 100%;
+    height: 250px;
+    justify-content: center;
+}
+.faixa_cor{
+    height: 150px;
+    background-color: #C2CFB3;
+    width: 100%;
+    position: absolute;
+}
+.contato{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    height: 140px;
+    width: 620px;
+    background-color: #FFFFFF;
+    margin-top: 187px;
+    box-shadow: 3px 3px 10px 3px rgba(0, 0, 0, 0.5);
+}
+.contato span{
+    font-size: 2.5rem;
+}
+
+.textoautor{
+    background-image: url('../img/livros.png');
+    background-attachment: fixed;
+    width: 100%;
+    flex-wrap: wrap;
+    display: flex;
+    height: 1100px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.caixa_autor{
+    border-radius: 10%;
+    width: 720px;
+    height: 500px;
+    background-color: #EFEEEA;
+
+
+}
+.titulo{ 
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 2.0rem;
+}
+.conteudo_autor{
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 43px;
+    margin-right: 43px;
+    align-content: stretch;
+    font-size: 1.0rem;
+    align-items: center;
+}
+.imagem_livros{
+    width: 100%;
+    margin-top: 210px;
+    background-attachment: fixed;
+}
+.imagem_livros img{
+    background-attachment: fixed;
+    width: 100%;
+    height: 960px;
+}
+footer {
+    background-color: #49654E;
+    padding: 20px;
+    text-align: center;
+    height: 80px;
+    color:white;
+  }

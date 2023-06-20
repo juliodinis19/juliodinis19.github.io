@@ -1,0 +1,52 @@
+.sec_escolhadeobra{
+    justify-content: center;
+    display: flex;
+    background-color: #F6F6F6;
+    padding-bottom: 70px;
+}
+.div_pai_escolhadeobra{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: 100%;
+    
+    width: 1500px;
+   
+    margin-top: 15pxpx;
+}
+
+.h1_escolhadeobra{
+    text-align: center;
+    font-size: 3.2rem;
+    background-color:  #F6F6F6;
+    padding-top: 30px;
+    font-family:sans-serif;
+    color: #49654E;
+}
+
+.img_escolhadeobra{
+    width: 240px;
+    height: 290px;
+    margin-top: 20px;
+}
+
+.div_obra1{
+    width: 350px;
+    height: 450px;
+    background-color: #8BA88A;
+    margin-top: 60px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    box-shadow: 3px 3px 10px 3px rgba(0, 0, 0, 0.5);
+    font-family: sans-serif;
+    color: white;
+}
+
+.p_obras{
+    margin-top: 30px;
+    font-size: 1.4rem;
+}
+ 
+

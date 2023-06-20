@@ -1,0 +1,40 @@
+.menu{
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+    height: 95px;
+    background-color: #49654E;
+    align-items: center;
+    color: white;
+    box-shadow: 3px 3px 10px 3px rgba(0, 0, 0, 0.5);
+    width: 100%
+}
+.img_logo{
+    width: 160px;
+    filter: invert(100%)
+}
+.logo{
+    align-items: center;
+    margin-left: 30px;
+}
+.menu2{
+    display: flex;
+    margin-left: 25;
+    align-items: center;
+    margin-right: 30px;
+}
+.menu2 img{
+    width: 35px;
+    filter: invert(100%);
+    padding: 9px;
+}
+.texto_nav {
+    display: flex;
+    list-style: none;
+    margin-right: 50px;
+}
+.texto_nav2 { 
+    padding: 10px;
+}

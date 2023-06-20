@@ -1,0 +1,10 @@
+.perguntas{
+    background-color:#E2E8DC;
+    display: flex;
+    height: 900px;
+    justify-content: center;
+    align-items: center;
+}
+.imagem_perguntas{
+    border: 5px dashed #49654E;
+}

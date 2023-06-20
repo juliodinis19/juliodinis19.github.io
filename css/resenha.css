@@ -1,0 +1,50 @@
+
+.sec_resenha{
+    background-image: url('../img/livros.png');
+    background-attachment: fixed;
+    height: 1000px;
+    width: 100%;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+}
+.esquerda_resenha{
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin-right: 30px;
+}
+.caixa_resenha{
+    justify-content: flex-start;
+    height: 900px;
+    width: 650px;
+    background-color:  #e2f1e2;
+    margin-top: 75px;
+    flex-wrap: wrap;
+    border-radius: 5px;
+}
+.titulo_resenha {
+    text-align: center;
+    font-size: 2rem;
+    font-style: italic;
+    flex-wrap: wrap;
+}
+.texto_resenha{
+    font-size: 1rem;
+    margin: 25px;
+}
+
+.direita_resenha{
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    margin-top: 75px;
+    flex-wrap: wrap; 
+}
+ .img_fraseresenha{
+    width: 400px;
+    height: 900px;
+    flex-wrap: wrap;
+}
+
+.direita_resenha img{ 
+    border-radius: 5px;
+}

@@ -1,0 +1,77 @@
+.central_personagens{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color:  #E2E8DC;
+    padding-bottom: 50px;
+}
+.central_personagens2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color:  #E2E8DC;
+    padding-bottom: 50px;
+    margin-top: -95px;
+}
+
+.item_personagens{
+    display: flex;
+    width: 300px;
+    margin-bottom: 10px;
+    height: 450px;
+    margin: 150px 30px 0 0;
+    background-color: #8BA88A;
+    box-shadow: 3px 3px 10px 3px rgba(0,0,0,.5);
+    border-radius: 10px;
+}
+
+.cicle_personagens{
+    display: block;
+    border-radius: 50%;
+    border: 5px solid #8BA88A;
+    width: 170px;
+    height: 170px;
+    margin-top: -70px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.circle1_personagens { background-image: url('../img/berta.fidalgos.png');}
+.circle2_personagens { background-image: url('../img/domluis.fidalgos.png');}
+.circle3_personagens { background-image: url('../img/jorge.fidalgos.png');}
+.circle4_personagens { background-image: url('../img/mauricio.fidalgos.png');}
+
+.circle5_personagens { background-image: url('../img/augusto.morgadinha.png');}
+.circle6_personagens { background-image: url('../img/cristina.morgadinha.png');}
+.circle7_personagens { background-image: url('../img/henrique.mogardinha.png')}
+.circle8_personagens { background-image: url('../img/madalena.morgadinha.png');}
+.circle9_personagens { background-image: url('../img/manuel.morgadinha.png');}
+
+.circle10_personagens { background-image: url('../img/clara.pupilas.png');}
+.circle11_personagens { background-image: url('../img/margarida.pupilas.png');}
+.circle12_personagens { background-image: url('../img/daniel.pupilas.png')}
+.circle13_personagens { background-image: url('../img/pedro.pupilas.png');}
+.circle14_personagens { background-image: url('../img/reitor.pupilas.png');}
+
+
+.texto_personagens {
+    width: 250px;
+    text-align: justify;
+    color: white;
+}
+.nome_personagem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    font-size: 1.5rem;
+    color:white;
+}
+.nome_personagem2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    font-size: 1.6rem;
+    color: white;
+}
